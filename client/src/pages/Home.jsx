@@ -89,7 +89,7 @@ console.log(saleListings);
       }
       </Swiper>
       {/* listing results for offer, sale and rent */}
-      <div className="max-w-6xl mx-auto p-3 flex flex-col gap-8 my-10">
+      <div className="max-w-7xl mx-auto p-3 flex flex-col gap-8 my-10">
         {
           offerListings && offerListings.length > 0 && (
 
